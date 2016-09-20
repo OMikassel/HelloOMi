@@ -1,6 +1,6 @@
 <?hh //strict
 
-    namespace HelloOMi\Providers;
+    namespace HelloOMi\src\Providers;
 
 
     use Plenty\Plugin\RouteServiceProvider;
