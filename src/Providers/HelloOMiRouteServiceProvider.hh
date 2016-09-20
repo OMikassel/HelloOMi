@@ -1,15 +1,15 @@
 <?hh //strict
 
-    namespace HelloWorld\Providers;
+    namespace HelloOMi\Providers;
 
 
     use Plenty\Plugin\RouteServiceProvider;
     use Plenty\Plugin\Routing\Router;
 
-    class HelloWorldRouteServiceProvider extends RouteServiceProvider
+    class HelloOMiRouteServiceProvider extends RouteServiceProvider
     {
         public function map(Router $router):void
         {
-            $router->get('hello','HelloOMi\Controller\ContentController@sayHello');
+            $router->get('hello','Controller\ContentController@sayHello');
         }
     }

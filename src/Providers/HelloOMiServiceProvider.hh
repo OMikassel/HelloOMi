@@ -1,11 +1,11 @@
 <?hh //strict
 
-    namespace HelloWorld\Providers;
+    namespace HelloOMi\Providers;
 
 
     use Plenty\Plugin\ServiceProvider;
 
-    class HelloWorldServiceProvider extends ServiceProvider
+    class HelloOMiServiceProvider extends ServiceProvider
     {
 
         /**
