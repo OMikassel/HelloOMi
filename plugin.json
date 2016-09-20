@@ -4,5 +4,5 @@
     "namespace":"HelloOMi",
     "author":"OMi",
     "type":"template",
-    "serviceProvider":"src\\Providers\\HelloOMiServiceProvider"
+    "serviceProvider":"Providers\\HelloOMiServiceProvider"
 }
