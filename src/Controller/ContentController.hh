@@ -1,6 +1,6 @@
 <?hh //strict
 
-    namespace HelloOMi\Controllers;
+    namespace HelloOMi\Controller;
 
 
     use Plenty\Plugin\Controller;
