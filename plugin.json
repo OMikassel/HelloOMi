@@ -1,8 +1,8 @@
 {
-    "name":"HelloTestOMi",
-    "description":"My first plugin",
-    "namespace":"HelloOMi",
-    "author":"OMi",
-    "type":"template",
-    "serviceProvider":"Providers\\HelloOMiServiceProvider"
+    "name": "HelloTestOMi",
+    "description": "My first plugin",
+    "namespace": "HelloOMi",
+    "author": "OMi",
+    "type": "template",
+    "serviceProvider": "Providers\\HelloOMiServiceProvider"
 }
